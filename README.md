@@ -64,20 +64,6 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 
 <br/>
 
-## 📈 The Journey
-
-<div align="center">
-
-```
-Web Dev  →  Python  →  Data Analytics  →  Andrew Ng's ML Spec  →  NLP / Deep Learning
-```
-
-**Low SGPA in Sem I → 9.5 SGPA by Sem VI** — the long way up, one streak at a time.
-
-</div>
-
-<br/>
-
 ## 🏆 Milestones & Credentials
 
 <table>
