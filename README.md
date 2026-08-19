@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hi%20I'm%20Shubham&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=From%20Dashboards%20to%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shubhampujara99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shubhampujara99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GATE%202026-CSE%20%7C%20DS%26AI-6366f1?style=for-the-badge"/>
 
 <br/>
@@ -31,35 +31,12 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ VeritasLens
-**Claim-Level Evidence Verification (RAG)**
-*Extension of NewsPulse*
-
-Claim extraction → evidence retrieval fallback chain → MiniLM + FAISS/ChromaDB → Gemini verdict reasoning → confidence-aware verdicts
-
-`RAG` `FAISS` `Gemini` `ChromaDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 Expense Reimbursement Automation
-**NLP deployment for a CA firm**
-
-Bulk PDF extraction (Zomato/Swiggy/Uber/Ola) · 5-class DistilBERT classifier · SQLite · Excel export
-
-`pdfplumber` `EasyOCR` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🏏 CricAnalytics
-**Big Data Pipeline**
+**Big Data Analytics Pipeline**
 
 1.43M+ deliveries processed · Apache Spark · HDFS · Docker · PySpark MLlib
 
-`Spark` `Docker` `PySpark`
+`Spark` `Docker` `PySpark` `HDFS`
 
 </td>
 </tr>
@@ -123,8 +100,8 @@ Web Dev  →  Python  →  Data Analytics  →  Andrew Ng's ML Spec  →  NLP / 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shubhampujara99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhampujara99&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
