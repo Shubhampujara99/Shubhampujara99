@@ -125,10 +125,6 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 <img src="https://github-readme-stats.vercel.app/api?username=Shubhampujara99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhampujara99&theme=tokyonight&hide_border=true" width="48%"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Shubhampujara99/Shubhampujara99/output/github-contribution-grid-snake-dark.svg" width="80%"/>
-
 </div>
 
 <br/>
@@ -146,7 +142,7 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 <div align="center">
 
 ### 💬 *"Consistency is the Key"*
-Following an academic-recovery-to-ML-intern journey — one post, one streak, one project at a time.
+Following my academic-recovery-to-ML journey — one post, one streak, one project at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
