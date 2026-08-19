@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hi%20I'm%20Shubham&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=From%20Dashboards%20to%20Deep%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/shubhampujara99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shubham-pujara-2239a8324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shubhampujara99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GATE%202026-CSE%20%7C%20DS%26AI-6366f1?style=for-the-badge"/>
 
