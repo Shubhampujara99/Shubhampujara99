@@ -31,16 +31,25 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 </td>
 <td width="50%" valign="top">
 
-### 🏏 CricAnalytics
-**Big Data Analytics Pipeline**
+### 📊 Loan Default Risk Analysis
+**End-to-End BI Pipeline**
 
-1.43M+ deliveries processed · Apache Spark · HDFS · Docker · PySpark MLlib
+255K+ loan records ingested from SQL Server via On-premises Data Gateway + Power BI Dataflow Gen1 · 15+ DAX measures (YoY, YTD, default rate %) · validated against Excel pivots for 100% accuracy
 
-`Spark` `Docker` `PySpark` `HDFS`
+`Power BI` `SQL Server` `DAX` `Data Flow`
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### ☕ Klawffee Sales Performance Infographic
+Power BI infographic on 149K+ records in a Snowflake Schema · Smart Narrative visuals for dynamic KPI storytelling · month-wise & store-wise forecasts against a $14,09,207 revenue target
+
+`Power BI` `DAX` `Snowflake Schema`
+
+</div>
 
 <div align="center">
 
@@ -67,12 +76,32 @@ Web Dev  →  Python  →  Data Analytics  →  Andrew Ng's ML Spec  →  NLP / 
 
 ## 🏆 Milestones & Credentials
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 GATE 2026
+- **CSE** — AIR 6827, Score 512
+- **Data Science & AI** — AIR 4561, Score 438
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Coding Profiles
+- **NeetCode** — 100+ DSA problems in Python
+- **HackerRank** — 65+ challenges · Python Basic, SQL Basic & SQL Intermediate certified
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-| 🎯 GATE 2026 | 📜 Certifications | 🔥 Streaks |
-|:---:|:---:|:---:|
-| CSE — AIR 6827 | Microsoft Power BI Data Analyst | 500+ days LinkedIn games |
-| DS & AI — AIR 4561 | Databricks GenAI Fundamentals | 100 days NeetCode DSA |
+| 📜 Certifications | 🔥 Streaks |
+|:---:|:---:|
+| Microsoft Certified: Power BI Data Analyst Associate | 500+ days LinkedIn games |
+| Machine Learning Specialization — Stanford (Coursera) | 100+ days NeetCode DSA |
+| BCG X Data Science Job Simulation — Forage | |
 
 </div>
 
@@ -89,8 +118,9 @@ Web Dev  →  Python  →  Data Analytics  →  Andrew Ng's ML Spec  →  NLP / 
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square)
 
 </div>
 
