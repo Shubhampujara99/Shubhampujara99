@@ -40,23 +40,27 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 
 </td>
 </tr>
-</table>
-
-<div align="center">
+<tr>
+<td width="50%" valign="top">
 
 ### ☕ Klawffee Sales Performance Infographic
-Power BI infographic on 149K+ records in a Snowflake Schema · Smart Narrative visuals for dynamic KPI storytelling · month-wise & store-wise forecasts against a $14,09,207 revenue target
+149K+ records modeled in a Snowflake Schema · Smart Narrative visuals for dynamic KPI storytelling · month-wise & store-wise forecasts against a $14,09,207 revenue target
 
 `Power BI` `DAX` `Snowflake Schema`
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🏏 CricAnalytics
+**Big Data Analytics Pipeline**
 
-### 🚌 TransitOps — Hackathon Build
-FastAPI backend + React frontend for transit operations management
+1.43M+ deliveries processed · Apache Spark · HDFS · Docker · PySpark MLlib
 
-</div>
+`Spark` `Docker` `PySpark` `HDFS`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -111,7 +115,7 @@ Web Dev  →  Python  →  Data Analytics  →  Andrew Ng's ML Spec  →  NLP / 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,docker,sqlite,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,git,vscode&theme=dark" />
 
 <br/><br/>
 
