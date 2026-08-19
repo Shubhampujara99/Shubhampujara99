@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Final-Year+B.Tech+CSE+%40+PDEU;ML+Intern+%40+AxisRay;Building+NLP+%2B+RAG+Systems;Consistency+is+the+Key" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Final-Year+B.Tech+CSE+%40+PDEU;Ex-ML+Intern+%40+AxisRay;Building+NLP+%2B+RAG+Systems;GATE+2026+Qualified;Consistency+is+the+Key" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ### 🔍 NewsPulse
 **Multi-modal Fake News Detection System**
-*AxisRay internship deliverable*
+*AxisRay internship deliverable (May–Jul 2026)*
 
 Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + Gemini 2.5 Flash · GDELT news intelligence dashboard · ~90–95% F1 on WELFake
 
@@ -61,6 +61,8 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 </td>
 </tr>
 </table>
+
+<br/>
 
 <br/>
 
@@ -122,6 +124,20 @@ Six-phase Streamlit platform · DistilBERT + EasyOCR · Google Fact Check API + 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shubhampujara99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhampujara99&theme=tokyonight&hide_border=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Shubhampujara99/Shubhampujara99/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Right Now
+
+🔭 Exploring RAG pipelines and evidence-grounded verification systems &nbsp;|&nbsp; 🌱 Deepening my NLP/DL fundamentals &nbsp;|&nbsp; 📊 Shipping one more Power BI story &nbsp;|&nbsp; 🎯 Prepping for what's next after GATE 2026
 
 </div>
 
